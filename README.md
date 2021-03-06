@@ -1,6 +1,6 @@
-### Hi, my name is Emanuele - aka [maxcohen31]
+## Hi, my name is Emanuele - aka [maxcohen31]
 
-## Math student. Self-taught Python programmer. Friend. 
+### Math student. Self-taught Python programmer. Friend. 
 
 - 🔭 I want to be a data scientist!
 - 🌱 I’m currently learning Python
