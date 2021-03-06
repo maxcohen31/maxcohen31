@@ -9,3 +9,4 @@
 - 📫 How to reach me: bolgheri93@gmail.com
 - ⚡ Fun fact: Marathon runner
 
+<img align='left' alt="maxcohen31's Github Stats" src='https://github-readme-stats.vercel.app/api?username=maxcohen31&show_icons=true&theme=synthwave' />
