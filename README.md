@@ -1,4 +1,4 @@
-## Hi, my name is Emanuele - aka [maxcohen31] <img = src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2Fimages%2F5b8cfc1251c1eb686beb935373ec60a4%2Ftenor.gif&f=1&nofb=1" width="20px" alt="hi">
+## Hi, my name is Emanuele - aka [maxcohen31] <img = src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" alt="hi">
 
 ### Math student. Self-taught Python programmer. Friend. 
 
