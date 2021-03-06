@@ -2,7 +2,7 @@
 
 ### Math student. Self-taught Python programmer. Friend. 
 
-:mailbox: Reach me out!
+:thunder
 
 - 🔭 I want to be a data scientist!
 - 🌱 I’m currently learning Python
