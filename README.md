@@ -9,4 +9,9 @@
 - 📫 How to reach me: bolgheri93@gmail.com
 - ⚡ Fun fact: Marathon runner
 
+### Languages and Tools:
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/Python.svg" />
+
+
+
 <img align='left' alt="maxcohen31's Github Stats" src='https://github-readme-stats.vercel.app/api?username=maxcohen31&show_icons=true&theme=synthwave' />
