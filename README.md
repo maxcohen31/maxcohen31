@@ -17,4 +17,4 @@
 
 
 <img align='left' alt="maxcohen31's Github Stats" src='https://github-readme-stats.vercel.app/api?username=maxcohen31&show_icons=true&theme=tokyonight' />
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxcohen31)](https://github.com/anuraghazra/github-readme-stats") />
+<src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxcohen31" />
