@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ... Python
 - 👯 I’m looking to collaborate on ... Python
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... bolgheri93@gmail.com
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... Marathon runner
+- 📫 How to reach me: bolgheri93@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Marathon runner
 
