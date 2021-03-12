@@ -3,13 +3,12 @@
 ### Math student. Self-taught Python programmer. Friend. 
 
 
-- 🔭 Wannabe programmer                                                            <img height="100" width="100" src="https://camo.githubusercontent.com/f59f7105ca8f18a36198f93d7592106c3a6e66e16edc04364b6785ee30f5c674/68747470733a2f2f6d65646961312e74656e6f722e636f6d2f696d616765732f63643337666134396339383361633930356466303031366664356236613265652f74656e6f722e676966" />
+- 🔭 Wannabe programmer                                                            
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate with other content creators
 - 💬 Ask me about anything
 - 📫 How to reach me: bolgheri93@gmail.com
 - ⚡ Fun fact: Marathon runner
-- 
 
 
 ### Languages and Tools:
