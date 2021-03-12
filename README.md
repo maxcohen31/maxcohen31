@@ -10,13 +10,11 @@
 - 📫 How to reach me: bolgheri93@gmail.com
 - ⚡ Fun fact: Marathon runner
 
-<img src="https://camo.githubusercontent.com/f59f7105ca8f18a36198f93d7592106c3a6e66e16edc04364b6785ee30f5c674/68747470733a2f2f6d65646961312e74656e6f722e636f6d2f696d616765732f63643337666134396339383361633930356466303031366664356236613265652f74656e6f722e676966" />
-
-
 
 ### Languages and Tools:
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> 
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img  src="https://camo.githubusercontent.com/f59f7105ca8f18a36198f93d7592106c3a6e66e16edc04364b6785ee30f5c674/68747470733a2f2f6d65646961312e74656e6f722e636f6d2f696d616765732f63643337666134396339383361633930356466303031366664356236613265652f74656e6f722e676966" />
 
 
 
