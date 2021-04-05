@@ -3,7 +3,7 @@
 ### Math student. Self-taught Python programmer. Friend. 
 
 - 🎓 Math student
-- 🔭 Wannabe data scientist                                                          
+- 🔭 Future data scientist                                                          
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate with other content creators
 - 💬 Ask me about anything                                                                  
