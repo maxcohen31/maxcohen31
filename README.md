@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate with other content creators
 - 💬 Ask me about anything                                                                  
-- 📫 How to reach me: bolgheri93@gmail.com                     
+- 📫 How to reach me: eman_93@hotmail.it                    
 - ⚡ Fun fact: Marathon runner
     
 
