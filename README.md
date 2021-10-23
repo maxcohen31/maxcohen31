@@ -20,3 +20,8 @@
 ### Some insights about Github Profile
 <img align='left' alt="maxcohen31's Github Stats" src='https://github-readme-stats.vercel.app/api?username=maxcohen31&show_icons=true&theme=tokyonight' />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxcohen31&theme=tokyonight" />
+
+<p align="center"> 
+ visitors<br><br>
+  <img src="https://profile-counter.glitch.me/maxcohen31/count.svg" />
+</p>
