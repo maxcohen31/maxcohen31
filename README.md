@@ -9,8 +9,8 @@
 - 💬 Ask me about anything                                                                  
 - 📫 How to reach me: eman_93@hotmail.it                    
 - ⚡ Fun fact: Marathon runner
-- 💻 [Kaggle](https://www.kaggle.com/maxcohen31) 
-- <a href="https://www.kaggle.com/maxcohen31"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>  
+
+<a href="https://www.kaggle.com/maxcohen31"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>  
 
 ### Languages and Tools:
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> 
