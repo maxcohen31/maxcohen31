@@ -1,4 +1,4 @@
-## Hi, my name is Emanuele - aka [maxcohen31] <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"><img align="right" alt="GIF" width="420" height="360" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif" /></center>
+## Hi, my name is Emanuele <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"><img align="right" alt="GIF" width="420" height="360" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif" /></center>
 
 ### Math student. Self-taught Python programmer. Friend. 
 Profile picture by [Leo Virolainen](https://www.artstation.com/leopaulartur)
