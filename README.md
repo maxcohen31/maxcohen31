@@ -26,4 +26,3 @@ Profile picture by [Leo Virolainen](https://www.artstation.com/leopaulartur)
 
 ### :spider: Web Scraping :spider:
 - [Web Scraping in EU](https://discoverdigitallaw.com/is-web-scraping-legal-short-guide-on-scraping-under-the-eu-jurisdiction/)
-- 
