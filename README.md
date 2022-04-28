@@ -5,7 +5,7 @@ Profile picture by [Leo Virolainen](https://www.artstation.com/leopaulartur)
 
 - 🎓 Math student
 - 🔭 Aspiring Data Scientist                                                      
-- 🌱 I’m currently writing web crawlers by using Scrapy framework
+- 🌱 I’m currently writing spiders by using Scrapy framework
 - 👯 I’m looking to collaborate with other content creators
 - 💬 Ask me about anything                                                                  
 - 📫 How to reach me: eman_93@hotmail.it                    
