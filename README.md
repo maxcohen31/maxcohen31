@@ -24,5 +24,6 @@ Profile picture by [Leo Virolainen](https://www.artstation.com/leopaulartur)
 <img align='left' alt="maxcohen31's Github Stats" src='https://github-readme-stats.vercel.app/api?username=maxcohen31&show_icons=true&theme=tokyonight' />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxcohen31&theme=tokyonight" />
 
-### Web Scraping
-[Web Scraping in EU](https://discoverdigitallaw.com/is-web-scraping-legal-short-guide-on-scraping-under-the-eu-jurisdiction/)
+### :spider: Web Scraping :spider:
+- [Web Scraping in EU](https://discoverdigitallaw.com/is-web-scraping-legal-short-guide-on-scraping-under-the-eu-jurisdiction/)
+- 
