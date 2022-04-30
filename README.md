@@ -8,7 +8,7 @@ Profile picture by [Leo Virolainen](https://www.artstation.com/leopaulartur)
 - 🌱 I’m currently writing spiders by using Scrapy framework
 - 👯 I’m looking to collaborate with other content creators
 - 💬 Ask me about anything                                                                  
-- 📫 How to reach me: eman_93@hotmail.it                    
+- 📫 How to reach me: led93@protonmail.com                  
 - ⚡ Fun fact: Marathon runner
 
 <a href="https://www.kaggle.com/maxcohen31"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>  
