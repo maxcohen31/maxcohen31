@@ -21,7 +21,7 @@ Profile picture by [Leo Virolainen](https://www.artstation.com/leopaulartur)
 
 
 ### Some insights about Github Profile
-<img align='left' alt="maxcohen31's Github Stats" src="https://github-readme-stats.vercel.app/api?username=maxcohen31&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+![maxcohen31's github stats](https://github-readme-stats.vercel.app/api?username=maxcohen31&show_icons=true&hide_border=false&theme=tokyonight&title_color=2ED3EA) <!-- <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height=165px> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxcohen31&theme=tokyonight" />
 
 ### :spider: Art of Web Scraping :spider:
