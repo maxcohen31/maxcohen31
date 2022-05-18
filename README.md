@@ -22,8 +22,9 @@ Profile picture by [Leo Virolainen](https://www.artstation.com/leopaulartur)
 
 ### Some insights about Github Profile
 
+![Maxcohen31's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxcohen31&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxcohen31)](https://github.com/maxcohen31/github-readme-stats)
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxcohen31&theme=tokyonight" />
+
 
 ### :spider: Art of Web Scraping :spider:
 - [Web Scraping in EU](https://discoverdigitallaw.com/is-web-scraping-legal-short-guide-on-scraping-under-the-eu-jurisdiction/)
