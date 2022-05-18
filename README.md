@@ -21,7 +21,6 @@ Profile picture by [Leo Virolainen](https://www.artstation.com/leopaulartur)
 
 
 ### Some insights about Github Profile
-
 ![Maxcohen31's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxcohen31&count_private=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxcohen31&theme=synthwave)](https://github.com/maxcohen31/github-readme-stats)
 
