@@ -1,6 +1,7 @@
 ## Hi, my name is Emanuele <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 ### Math student. Self-taught Python programmer. Friend. 
 Profile picture by [Leo Virolainen](https://www.artstation.com/leopaulartur)
+
 <img align="right" alt="GIF" width="420" height="460" src="https://media3.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" /> </center>
 
 - 🎓 Math student
