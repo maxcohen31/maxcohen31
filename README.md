@@ -3,6 +3,7 @@
 Profile picture by [Leo Virolainen](https://www.artstation.com/leopaulartur)
  
 <img align="right" alt="GIF" width="420" height="360" src="https://media1.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif?cid=ecf05e47bidyuwqb4e0p850bbgagdt07u21n5v463au9i4oe&rid=giphy.gif&ct=g">
+
 - 🎓 Math student
 - 🔭 Aspiring Data Scientist                                                      
 - 🌱 I’m currently writing spiders by using Scrapy framework
