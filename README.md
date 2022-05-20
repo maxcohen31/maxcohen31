@@ -6,9 +6,10 @@ Profile picture by [Leo Virolainen](https://www.artstation.com/leopaulartur)
 - 🔭 Aspiring Data Scientist                                                      
 - 🌱 I’m currently writing spiders by using Scrapy framework
 - 👯 I’m looking to collaborate with other content creators
-- 💬 Ask me about anything                                                                  
+- 💬 Ask me about anything, i'm happy to help                                                                   
 - 📫 How to reach me: led93@protonmail.com                  
 - ⚡ Fun fact: Marathon runner
+ 
 <img align="right" alt="GIF" width="420" height="360" src="https://media3.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 <br clear="right"/>
 
