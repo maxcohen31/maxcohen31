@@ -10,7 +10,7 @@ Profile picture by [Leo Virolainen](https://www.artstation.com/leopaulartur)
 - 📫 How to reach me: led93@protonmail.com                  
 - ⚡ Fun fact: Marathon runner
 
-<div style="text-align: right"><img style="float: right;" alt="GIF" width="420" height="360" src="https://media3.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif#right" /></center>
+<div style="text-align: right"><img style="float: right;" alt="GIF" width="320" height="360" src="https://media3.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif#right" /></center>
 
 <a href="https://www.kaggle.com/maxcohen31"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>  
 
