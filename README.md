@@ -3,7 +3,7 @@
 ### Math student. Self-taught Python programmer. Friend. 
 Profile picture by [Leo Virolainen](https://www.artstation.com/leopaulartur)
 
-<img align="right" alt="GIF" width="420" height="360" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif" /></center>
+<img align="right" alt="GIF" width="420" height="360" src="[https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif](https://media3.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)" /></center>
 
 - 🎓 Math student
 - 🔭 Aspiring Data Scientist                                                      
