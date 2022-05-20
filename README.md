@@ -2,8 +2,6 @@
 ### Math student. Self-taught Python programmer. Friend. 
 Profile picture by [Leo Virolainen](https://www.artstation.com/leopaulartur)
 
-<img style="float: right;" alt="GIF" width="420" height="360" src="https://media3.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif#right" /></center>
-
 - 🎓 Math student
 - 🔭 Aspiring Data Scientist                                                      
 - 🌱 I’m currently writing spiders by using Scrapy framework
@@ -11,6 +9,8 @@ Profile picture by [Leo Virolainen](https://www.artstation.com/leopaulartur)
 - 💬 Ask me about anything                                                                  
 - 📫 How to reach me: led93@protonmail.com                  
 - ⚡ Fun fact: Marathon runner
+
+<img style="float: right;" alt="GIF" width="420" height="360" src="https://media3.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif#right" /></center>
 
 <a href="https://www.kaggle.com/maxcohen31"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>  
 
