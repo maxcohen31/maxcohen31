@@ -2,7 +2,7 @@
 ### Math student. Self-taught Python programmer. Friend. 
 Profile picture by [Leo Virolainen](https://www.artstation.com/leopaulartur)
 
-<img style="float: right;" alt="GIF" width="420" height="360" src="https://media3.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" /></center>
+<img style="float: right;" alt="GIF" width="420" height="360" src="https://media3.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif#right" /></center>
 - 🎓 Math student
 - 🔭 Aspiring Data Scientist                                                      
 - 🌱 I’m currently writing spiders by using Scrapy framework
