@@ -28,3 +28,4 @@ Profile picture by [Leo Virolainen](https://www.artstation.com/leopaulartur)
 
 ### :spider: Art of Web Scraping :spider:
 - [Web Scraping in EU](https://discoverdigitallaw.com/is-web-scraping-legal-short-guide-on-scraping-under-the-eu-jurisdiction/)
+- [LinkedIn vs hiQ Labs](https://casetext.com/case/hiq-labs-inc-v-linkedin-corp-4)
