@@ -10,7 +10,7 @@ Profile picture by [Leo Virolainen](https://www.artstation.com/leopaulartur)
 - 👯 I’m looking to collaborate with other content creators
 - 💬 Ask me about anything, i'm happy to help                                                                   
 - 📫 How to reach me: led93@protonmail.com                  
-- ⚡ Fun fact: Marathon runner
+- ⚡ Fun fact: Marathon runner, privacy advocate
 
 <a href="https://www.kaggle.com/maxcohen31"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>  
 
