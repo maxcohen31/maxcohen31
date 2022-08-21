@@ -20,6 +20,7 @@ Profile picture by [Leo Virolainen](https://www.artstation.com/leopaulartur)
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" width=40/><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" alt="arch" width=40/><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank">
 
 
+	
 
 ### Some insights about Github Profile
 ![Maxcohen31's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxcohen31&count_private=true&theme=synthwave)
