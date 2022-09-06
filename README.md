@@ -4,7 +4,7 @@ Profile picture by [Leo Virolainen](https://www.artstation.com/leopaulartur)
 
 <img align="right" alt="GIF" width="420" height="360" src="https://media1.giphy.com/media/WNilWrg7wPpDIgJyh0/giphy.gif?cid=ecf05e470o1tx3zuynvpj1fcoafvcbzon1fn1511rd6m4g46&rid=giphy.gif&ct=g"/>
 
-- 🎓 Math student
+- 🎓 Mathematics student
 - 🔭 Aspiring Data Scientist                                                      
 - 🌱 I’m currently learning Algorithms and Data Structures in Python
 - 👯 I’m looking to collaborate with other content creators
