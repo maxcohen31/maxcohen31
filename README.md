@@ -6,7 +6,7 @@ Profile picture by [Leo Virolainen](https://www.artstation.com/leopaulartur)
 
 - 🎓 Mathematics student
 - 🔭 Aspiring Data Scientist                                                      
-- 🌱 I’m currently learning Algorithms and Data Structures in Python
+- 🌱 I’m currently learning C++
 - 👯 I’m looking to collaborate with other content creators
 - 💬 Ask me about anything, i'm happy to help                                                                   
 - 📫 How to reach me: led93@protonmail.com                  
