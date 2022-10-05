@@ -30,7 +30,7 @@ Profile picture by [Leo Virolainen](https://www.artstation.com/leopaulartur)
    <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="32" height="32"/></a>
    <a href="https://www.debian.org" targer="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" width=40/></a>
    <a href="https://archlinux.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" alt="arch" width=40/></a> 
-   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.icons8.com/doodle/48/000000/bash.png"  width="32" height="32"/> </a> 
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.icons8.com/doodle/48/000000/bash.png"  width="32" height="32"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img height="32" width="32" src="https://img.icons8.com/fluency/344/mysql-logo.png"/> </a>
 ---   
    
