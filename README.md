@@ -23,8 +23,7 @@ Profile picture by [Leo Virolainen](https://www.artstation.com/leopaulartur)
 
    <a href="https://www.python.org/" target="_blank"> <img height="32" width="32" src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a>
    <a href="https://git-scm.com/" target="_blank"> <img height="32" width="32" src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-   <a href="https://github.com/" target="_blank"> <img height="32" width="32" src="https://img.icons8.com/fluency/48/000000/github.png"/> </a> 
-   <a href="https://www.mysql.com/" target="_blank"> <img height="32" width="32" src="https://img.icons8.com/fluency/344/mysql-logo.png"/> </a> 
+   <a href="https://github.com/" target="_blank"> <img height="32" width="32" src="https://img.icons8.com/fluency/48/000000/github.png"/> </a>  
    <a href="https://help.ubuntu.com/community/UsingTheTerminal" target="_blank"><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
    <a href="https://code.visualstudio.com/" target="_blank"> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> </a> 
    <a href="https://jupyter.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="IPYNB" width="32" height="32"/> </a> 
@@ -32,7 +31,7 @@ Profile picture by [Leo Virolainen](https://www.artstation.com/leopaulartur)
    <a href="https://www.debian.org" targer="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" width=40/></a>
    <a href="https://archlinux.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" alt="arch" width=40/></a> 
    <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.icons8.com/doodle/48/000000/bash.png"  width="32" height="32"/> </a> 
-   
+<a href="https://www.mysql.com/" target="_blank"> <img height="32" width="32" src="https://img.icons8.com/fluency/344/mysql-logo.png"/> </a>
 ---   
    
 ### Some insights about Github Profile
