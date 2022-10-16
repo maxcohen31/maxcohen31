@@ -9,12 +9,12 @@ Profile picture by [Leo Virolainen](https://www.artstation.com/leopaulartur)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right">
 
-- 🎓 Computer Science student
+- 🎓 **Computer Science** student
 - 🔭 Aspiring **Data Scientist**                                                      
 - 🌱 I’m currently learning **C++**
-- 👯 I’m looking to collaborate with other content creators
-- 💬 Ask me about anything, i'm happy to help                                                                                   
-- ⚡ **Fun facts**: Marathon runner, privacy advocate
+- 👯 I’m looking to **collaborate with other content creators**
+- 💬 Ask me about anything, i'm happy to **help**                                                                                   
+- ⚡ **Fun facts**: **Marathon runner, privacy advocate**
 
 ### Connect with me
 
