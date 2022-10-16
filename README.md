@@ -13,8 +13,9 @@ Profile picture by [Leo Virolainen](https://www.artstation.com/leopaulartur)
 - ⚡ **Fun facts**: Marathon runner, privacy advocate
 
 **Connect with me**
-![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
-<a>led93@protonmail.com</a>
+
+<a href="led93@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)" />
+
 
 ---
 
