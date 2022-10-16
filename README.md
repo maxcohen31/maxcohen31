@@ -40,7 +40,9 @@ Profile picture by [Leo Virolainen](https://www.artstation.com/leopaulartur)
 ---   
    
 ### Some insights about Github Profile
-| ![maxcohen31's github stats](https://github-readme-stats.vercel.app/api?username=maxcohen31&show_icons=true&theme=midnight-purple&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maxcohen31&theme=midnight-purplel&layout=compact) |
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![maxcohen31's github stats](https://github-readme-stats.vercel.app/api?username=maxcohen31&show_icons=true&theme=midnight-purple&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maxcohen31&theme=midnight-purple&layout=compact) |
 
 ---
 
