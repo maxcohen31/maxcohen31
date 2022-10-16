@@ -30,7 +30,7 @@
 
 ---
 ### Education
-<a href="https://www.unipi.it"><img src="https://it.wikipedia.org/wiki/Universit%C3%A0_di_Pisa#/media/File:Stemma_unipi.png" alt="drawing" height="115" width="115"/>  
+<a href="https://www.unipi.it"><img src="https://upload.wikimedia.org/wikipedia/it/7/72/Stemma_unipi.png" alt="drawing" height="115" width="115"/>  
 
 ---
 ### Languages and Tools:
