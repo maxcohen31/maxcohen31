@@ -26,7 +26,7 @@
 
 ---
 ### :necktie: Soft Skills 
-:white-check_mark: Good communication skills
+:white-check-mark: Good communication skills
 
 ---
 
