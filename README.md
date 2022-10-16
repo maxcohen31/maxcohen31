@@ -2,10 +2,11 @@
 
  ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=35&pause=500&color=FFA500&vCenter=true&width=600&height=70&lines=Hi+there+👋, +I+am+Emanuele;+Welcome+to+My+Profile!;CS+student;Aspiring+Data+Scientist;Friend)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=35&pause=500&color=FFA500&vCenter=true&width=600&height=70&lines=Hi+there+,+I+am+Emanuele;+Welcome+to+My+Profile!;CS+student;Aspiring+Data+Scientist;Friend)](https://git.io/typing-svg)
 
 ### Profile picture by [Leo Virolainen](https://www.artstation.com/leopaulartur)
-
+---
+ 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right">
 
 - 🎓 **Computer Science** student
