@@ -48,5 +48,5 @@ Profile picture by [Leo Virolainen](https://www.artstation.com/leopaulartur)
 ---
 
 ### :computer: Privacy :computer:
-<a href="https://www.eff.org" target="_blank"><img src="https://user-images.githubusercontent.com/73888184/196025747-dca3ced1-0e13-4c26-a731-a7ce7f21ee9a.png"  width="112" height="232"/> </a>
+<a href="https://www.eff.org" target="_blank"><img src="https://user-images.githubusercontent.com/73888184/196025747-dca3ced1-0e13-4c26-a731-a7ce7f21ee9a.png"  width="212" height="132"/> </a>
 
