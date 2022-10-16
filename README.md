@@ -48,4 +48,4 @@ Profile picture by [Leo Virolainen](https://www.artstation.com/leopaulartur)
 ---
 
 ### :computer: Privacy :computer:
-[Electronic Frontier Foundation](https://www.eff.org)
+<a href="https://www.eff.org/" target="_blank"> <img height="32" width="32" src="https://www.eff.org/files/2018/06/14/eff-logo-lockup-black.png"/> </a>
