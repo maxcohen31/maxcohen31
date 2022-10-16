@@ -14,8 +14,7 @@ Profile picture by [Leo Virolainen](https://www.artstation.com/leopaulartur)
 
 **Connect with me**
 
-<a href="led93@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)" />
-
+[![](https://img.shields.io/badge/-protonmail-black?style=for-the-badge&logo=gmail)](mailto:led93@protonmail.com)
 
 ---
 
