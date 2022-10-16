@@ -25,6 +25,10 @@
 <a href="https://www.kaggle.com/maxcohen31"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>  
 
 ---
+### :necktie: Soft Skills 
+:white-check_mark: Good communication skills
+
+---
 
 ### Languages and Tools:
 
