@@ -1,9 +1,5 @@
 <h1 align="center">  Hi, my name is Emanuele <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="29" alt="hi"></h1>
 
-<!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+,+I+am+Emanuele;+Welcome+to+My+Profile!;Computer science student+;Machine+learning+enthusiast+;Aspiring Data Scientist;Fried)](https://git.io/typing-svg)
-
-
 ### Computer Science student. Self-taught Python programmer. Friend. 
 Profile picture by [Leo Virolainen](https://www.artstation.com/leopaulartur)
 
