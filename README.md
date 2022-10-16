@@ -29,7 +29,10 @@
 ✅ Good communication skills
 
 ---
+### Education
+<a href="https://www.unipi.it"><img src="https://www.freelogovectors.net/wp-content/uploads/2021/04/university-of-pisa-logo-freelogovectors.net_-400x400.png" alt="drawing" width="75"/>  
 
+---
 ### Languages and Tools:
 
    <a href="https://www.python.org/" target="_blank"> <img height="32" width="32" src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a>
