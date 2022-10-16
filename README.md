@@ -30,7 +30,7 @@
 
 ---
 ### Education
-<a href="https://www.unipi.it"><img src="https://www.freelogovectors.net/wp-content/uploads/2021/04/university-of-pisa-logo-freelogovectors.net_-400x400.png" alt="drawing" height="75" width="75"/>  
+<a href="https://www.unipi.it"><img src="https://www.freelogovectors.net/wp-content/uploads/2021/04/university-of-pisa-logo-freelogovectors.net_-400x400.png" alt="drawing" height="75" width="105"/>  
 
 ---
 ### Languages and Tools:
