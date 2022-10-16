@@ -2,12 +2,9 @@
 
  ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=35&pause=500&color=FFA500&vCenter=true&width=600&height=70&lines=Hi+there+👋,+I+am+Emanuele;+Welcome+to+My+Profile!;CS+student;Aspiring+Data+Scientist;Friend)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=35&pause=500&color=FFA500&vCenter=true&width=600&height=70&lines=Hi+there+👋, +I+am+Emanuele;+Welcome+to+My+Profile!;CS+student;Aspiring+Data+Scientist;Friend)](https://git.io/typing-svg)
 
-<h1 align="center">  Hi, my name is Emanuele <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="29" alt="hi"></h1>
-
-### Computer Science student. Self-taught Python programmer. Friend. 
-Profile picture by [Leo Virolainen](https://www.artstation.com/leopaulartur)
+### Profile picture by [Leo Virolainen](https://www.artstation.com/leopaulartur)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right">
 
