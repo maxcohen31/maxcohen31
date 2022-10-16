@@ -1,7 +1,4 @@
 ![](Bottom_up.svg)
-<div align="left" >
-
- ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=50&pause=500&color=FFA500&vCenter=true&width=600&height=70&lines=Hi+there+,+i+am+Emanuele;+Welcome+to+My+Profile!;Computer+Science+student;Aspiring+Data+Scientist;Friend)](https://git.io/typing-svg)
 
@@ -61,3 +58,5 @@
 
 ### :computer: Privacy :computer:
 <a href="https://www.eff.org" target="_blank"><img src="https://user-images.githubusercontent.com/73888184/196025747-dca3ced1-0e13-4c26-a731-a7ce7f21ee9a.png"  width="212" height="52"/> </a>
+
+ ![](Bottom_down.svg)
