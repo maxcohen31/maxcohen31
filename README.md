@@ -9,9 +9,12 @@ Profile picture by [Leo Virolainen](https://www.artstation.com/leopaulartur)
 - 🔭 Aspiring **Data Scientist**                                                      
 - 🌱 I’m currently learning **C++**
 - 👯 I’m looking to collaborate with other content creators
-- 💬 Ask me about anything, i'm happy to help                                                                   
-- 📫 **How to reach me**: led93@protonmail.com                  
+- 💬 Ask me about anything, i'm happy to help                                                                                   
 - ⚡ **Fun facts**: Marathon runner, privacy advocate
+
+**Connect with me**
+![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
+<a>led93@protonmail.com</a>
 
 ---
 
