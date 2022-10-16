@@ -9,7 +9,7 @@
 
 - 🎓 **Computer Science** student
 - 🔭 Aspiring **Data Scientist**                                                      
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently programming in **C++**
 - 👯 I’m looking to **collaborate with other content creators**
 - 💬 Ask me about anything, i'm happy to **help**                                                                                   
 - ⚡ **Fun facts**: **Marathon runner, privacy advocate**
