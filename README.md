@@ -12,7 +12,7 @@ Profile picture by [Leo Virolainen](https://www.artstation.com/leopaulartur)
 - 💬 Ask me about anything, i'm happy to help                                                                                   
 - ⚡ **Fun facts**: Marathon runner, privacy advocate
 
-**Connect with me**
+### Connect with me
 
 [![](https://img.shields.io/badge/-protonmail-black?style=for-the-badge&logo=protonmail)](mailto:led93@protonmail.com)
 
