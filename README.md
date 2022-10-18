@@ -14,22 +14,22 @@
 - 💬 Ask me about anything, i'm happy to **help**                                                                                   
 - ⚡ **Fun facts**: **Marathon runner, privacy advocate**
 
-### Connect with me
+### Connect with me:
 
 [![](https://img.shields.io/badge/-protonmail-black?style=for-the-badge&logo=protonmail)](mailto:led93@protonmail.com)
 
 
 
-### My Kaggle Profile
+### My Kaggle Profile:
 
 <a href="https://www.kaggle.com/maxcohen31"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>  
 
 ---
-### :necktie: Soft Skills 
+### :necktie: Soft Skills: 
 ✅ Good communication skills
 
 ---
-### Education
+### Education:
 <a href="https://www.unipi.it"><img src="https://upload.wikimedia.org/wikipedia/it/7/72/Stemma_unipi.png" alt="drawing" height="115" width="115"/>  
 
 ---
