@@ -27,12 +27,9 @@
 ---
 ### :necktie: Soft Skills: 
 ✅ Good communication skills
-<<<<<<< HEAD
 :white_check_mark: Patience
 :white_check_mark: Discipline
 :white_check_mark: Friendliness
-=======
->>>>>>> 0a82ca24f0de8d974b77d196322d68682b7e41f2
 
 ---
 ### Education:
