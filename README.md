@@ -10,9 +10,10 @@
 - 🎓 **Computer Science** student
 - 🔭 Aspiring **Data Scientist**                                                      
 - 🌱 I’m currently programming in **Python** and **C++**
-- 👯 I’m looking to **collaborate with other content creators**
+- 👯 I’m looking to **collaborate** with other **content creators**
 - 💬 Ask me about anything, i'm happy to **help**                                                                                   
 - ⚡ Fun facts: **Marathon runner**, **privacy advocate**
+- :computer: Personal blog: [Max's blog](https://maxcohen31.github.io) 
 
 ### Connect with me:
 
