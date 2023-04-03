@@ -54,6 +54,8 @@
    <a href="https://www.debian.org" targer="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" width=40/></a>
    <a href="https://archlinux.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" alt="arch" width=40/></a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.icons8.com/doodle/48/000000/bash.png"  width="32" height="32"/> </a> 
+<a href="https://it.wikipedia.org/wiki/Structured_Query_Language" target="_blank"><img src="https://img.icons8.com/external-soft-fill-juicy-fish/256/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"  width="32" height="32"/> </a> 
+
 
 ---   
    
