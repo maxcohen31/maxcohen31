@@ -36,7 +36,7 @@
 
 ---
 ### Education:
-<a href="https://www.unipi.it"><img src="https://upload.wikimedia.org/wikipedia/it/7/72/Stemma_unipi.png" alt="drawing" height="115" width="115"/>  
+<a href="https://www.unipi.it"><img src=https://imgs.search.brave.com/VQ8gtbMN2fUVcsosXatGaa50a6vrt-ZF6O_-BSZ6m0g/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9wYXZh/ZWR1LmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAxOS8xMS91/bml2ZXJzaXR5LW9m/LXBpc2EtMTAyNHg1/MzYucG5n" alt="drawing" height="115" width="115"/>  
 
 ---
 ### Languages and Tools:
