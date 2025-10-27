@@ -8,7 +8,7 @@
 
 - 🎓 **Computer Science** student
 - 🔭 Aspiring **Data Scientist**                                                      
-- 🌱 I’m currently programming in *C*
+- 🌱 I’m currently programming in *C*, *OCaml* and *Common Lisp*
 - 👯 I’m looking to **collaborate** with other **content creators**
 - 💬 Ask me about anything, i'm happy to **help**                                                                                   
 - ⚡ Fun facts: **Marathon runner**, **privacy advocate**
