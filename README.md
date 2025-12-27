@@ -2,37 +2,18 @@
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=50&pause=500&color=FFA500&vCenter=true&width=600&height=70&lines=Hi+there+,+i+am+Emanuele;+Welcome+to+My+Profile!;Computer+Science+student;Aspiring+Data+Scientist;Friend.)](https://git.io/typing-svg)
 
----
- 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right">
 
-- 🎓 **Computer Science** student
+- 🎓 **Computer Science** student at @unipi
 - 🔭 Aspiring **Data Scientist**                                                      
-- 🌱 I’m currently programming in *C*, *OCaml* and *Common Lisp*
+- 🌱 I’m currently programming in *C* && *OCaml*
 - 👯 I’m looking to **collaborate** with other **content creators**
 - 💬 Ask me about anything, i'm happy to **help**                                                                                   
 - ⚡ Fun facts: **Marathon runner**, **privacy advocate**
-- :computer: Personal blog: [Max's blog](https://maxcohen31.github.io) 
 
 ### Connect with me:
 
 [![](https://img.shields.io/badge/-protonmail-black?style=for-the-badge&logo=protonmail)](mailto:led93@protonmail.com)
 
-
-
-### My Kaggle Profile:
-
-<a href="https://www.kaggle.com/maxcohen31"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>  
-
----
-### :necktie: Soft Skills: 
-✅ Good communication skills
- 
-:white_check_mark: Patience
- 
-:white_check_mark: Discipline
- 
-:white_check_mark: Friendliness
 
 ---
 ### Education:
@@ -63,17 +44,8 @@
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![maxcohen31's github stats](https://github-readme-stats.vercel.app/api?username=maxcohen31&show_icons=true&theme=midnight-purple&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maxcohen31&theme=midnight-purple&layout=compact) |
 
----
-
-### :spider: Art of Web Scraping :spider:
-- [Web Scraping in EU](https://discoverdigitallaw.com/is-web-scraping-legal-short-guide-on-scraping-under-the-eu-jurisdiction/)
-- [LinkedIn vs hiQ Labs](https://casetext.com/case/hiq-labs-inc-v-linkedin-corp-4)
 
 ---
-
-### :computer: Privacy :computer:
-<a href="https://www.eff.org" target="_blank"><img src="https://user-images.githubusercontent.com/73888184/196025747-dca3ced1-0e13-4c26-a731-a7ce7f21ee9a.png"  width="212" height="52"/> </a>
-
  ![](Bottom_down.svg)
 
- 
+
