@@ -1,7 +1,7 @@
 ![](Bottom_up.svg)
  
 
-- 🎓 **Computer Science** student at @unipi[https://di.unipi.it/en/]
+- 🎓 **Computer Science** student at [@unipi][https://di.unipi.it/en/]
 - 🔭 Aspiring **Data Scientist**                                                      
 - 🌱 I’m currently programming in *C* && *OCaml*
 - 👯 I’m looking to **collaborate** with other **content creators**
