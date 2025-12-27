@@ -1,7 +1,7 @@
 ![](Bottom_up.svg)
  
 
-- 🎓 **Computer Science** student @[unipi](https://di.unipi.it/en/)
+- 🎓 **Computer Science** student [@unipi](https://di.unipi.it/en/)
 - 🔭 Aspiring **Data Scientist**                                                      
 - 🌱 I’m currently programming in *C* && *OCaml*
 - 👯 I’m looking to **collaborate** with other **content creators**
@@ -9,7 +9,7 @@
 - ⚡ Facts: [**Endurance runner**; **Jump rope dude**]
 
 <p align="right">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmd6czJoZXJudzhvcm5lODBmeTY0cmg1Nmx5YTFtY2hrdXdqdmZ3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MnIO9NK5QwKRvVvfE7/giphy.gif" width=500px> 
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmd6czJoZXJudzhvcm5lODBmeTY0cmg1Nmx5YTFtY2hrdXdqdmZ3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MnIO9NK5QwKRvVvfE7/giphy.gif" width=300px> 
 </p>
 ### Connect with me:
 
