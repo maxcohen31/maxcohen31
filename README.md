@@ -9,7 +9,8 @@
 - ⚡ Facts: [**Endurance runner**; **Jump rope dude**]
 
 <p align="right">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmd6czJoZXJudzhvcm5lODBmeTY0cmg1Nmx5YTFtY2hrdXdqdmZ3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MnIO9NK5QwKRvVvfE7/giphy.gif" width=300px> 
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmd6czJoZXJudzhvcm5lODBmeTY0cmg1Nmx5YTFtY2hrdXdqdmZ3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MnIO9NK5QwKRvVvfE7/giphy.gif" heigth=400px
+   width=300px> 
 </p>
 ### Connect with me:
 
