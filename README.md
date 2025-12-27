@@ -1,17 +1,15 @@
 ![](Bottom_up.svg)
  
 
-- 🎓 **Computer Science** student [@unipi](https://di.unipi.it/en/)
-- 🔭 Aspiring **Data Scientist**                                                      
-- 🌱 I’m currently programming in *C* && *OCaml*
-- 👯 I’m looking to **collaborate** with other **content creators**
-- 💬 Ask me about anything, i'm happy to **help**                                                                                   
-- ⚡ Facts: [**Endurance runner**; **Jump rope dude**]
-
-<p align="right">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmd6czJoZXJudzhvcm5lODBmeTY0cmg1Nmx5YTFtY2hrdXdqdmZ3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MnIO9NK5QwKRvVvfE7/giphy.gif" height=500px
-   width=300px> 
-</p>
+| About me | |
+|---------|--|
+| 🎓 **Computer Science** student [@unipi](https://di.unipi.it/en/)  
+🔭 Aspiring **Data Scientist**  
+🌱 I’m currently programming in *C* && *OCaml*  
+👯 I’m looking to **collaborate** with other **content creators**  
+💬 Ask me about anything, i'm happy to **help**  
+⚡ Facts: **Endurance runner**, **Jump rope dude** | <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmd6czJoZXJudzhvcm5lODBmeTY0cmg1Nmx5YTFtY2hrdXdqdmZ3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MnIO9NK5QwKRvVvfE7/giphy.gif" width="280"/> |
+ 
 ### Connect with me:
 
 [![](https://img.shields.io/badge/-protonmail-black?style=for-the-badge&logo=protonmail)](mailto:led93@protonmail.com)
