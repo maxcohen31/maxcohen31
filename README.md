@@ -6,7 +6,7 @@
 - 🌱 I’m currently programming in *C* && *OCaml*
 - 👯 I’m looking to **collaborate** with other **content creators**
 - 💬 Ask me about anything, i'm happy to **help**                                                                                   
-- ⚡ Facts: **endurance runner**, **Jump rope dude**
+- ⚡ Facts: [**Endurance runner**; **Jump rope dude**]
 
 ### Connect with me:
 
