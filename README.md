@@ -8,7 +8,7 @@
 🌱 I’m currently programming in *C* && *OCaml*  
 👯 I’m looking to **collaborate** with other **content creators**  
 💬 Ask me about anything, i'm happy to **help**  
-:web: You can find me on [Codeberg](https://codeberg.org/Ema_93) too
+🕸️ You can find me on [Codeberg](https://codeberg.org/Ema_93) too
 ⚡ Facts: **Endurance runner**, **Jump rope dude** | <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmd6czJoZXJudzhvcm5lODBmeTY0cmg1Nmx5YTFtY2hrdXdqdmZ3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MnIO9NK5QwKRvVvfE7/giphy.gif" width="280"/> |
  
 ### Connect with me:
