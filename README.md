@@ -24,7 +24,6 @@
    <a href="https://www.python.org/" target="_blank"> <img height="32" width="32" src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a>
    <a href="https://git-scm.com/" target="_blank"> <img height="32" width="32" src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
    <a href="https://github.com/" target="_blank"> <img height="32" width="32" src="https://img.icons8.com/fluency/48/000000/github.png"/> </a>
-   <a href="https://www.cplusplus.com/" target="_blank"> <img height="32" width="32" src="https://img.icons8.com/color/512/c-logo.png"/> </a>
    <a href="https://github.com/neovim" target="_blank"> <img height="32" width="32" src="https://avatars.githubusercontent.com/u/6471485?s=200&v=4"/> </a>
    <a href="https://help.ubuntu.com/community/UsingTheTerminal" target="_blank"><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
    <a href="https://code.visualstudio.com/" target="_blank"> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> </a> 
